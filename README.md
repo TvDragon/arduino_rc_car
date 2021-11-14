@@ -1,7 +1,7 @@
 # Arduino Bluetooth RC Car
 ## Motivation
 
-After taking a semester of Introduction to Computer Systems where I had to learn about how to use an arduino during my tutorials to work towards my project of building a maze finding arduino I was hooked into working with arduinos to create projects like an RC Car and more. This would be the first thing I built when my semester ended and I was estatic when I got it to work.
+After taking a semester in Introduction to Computer Systems where I had to learn about how to use an arduino during my tutorials to work towards my project of building a maze finding arduino I was hooked into working with arduinos to create projects like an RC Car and more. This was the first thing I built after my semester ended and I was estatic when I got it to work.
 
 ## Getting Started
 
