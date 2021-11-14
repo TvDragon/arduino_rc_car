@@ -10,7 +10,7 @@ After taking a semester in Introduction to Computer Systems where I had to learn
 - [Arduino Software](https://www.arduino.cc/en/software)
 
 #### Tutorial to follow
-1. Follow tutorial to install on [tutorial](https://www.youtube.com/watch?v=Q36NbjPMV5k)
+1. Follow tutorial to build on [youtube](https://www.youtube.com/watch?v=Q36NbjPMV5k)
 
 I would like to claim that I am <b>not</b> the creator of the youtube video but I was inspired to build the RC Car after watching this video.
 
