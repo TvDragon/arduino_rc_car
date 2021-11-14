@@ -13,3 +13,9 @@ After taking a semester of Introduction to Computer Systems where I had to learn
 1. Follow tutorial to install on [tutorial](https://www.youtube.com/watch?v=Q36NbjPMV5k)
 
 I would like to claim that I am <b>not</b> the creator of this video but I was inspired to build the RC Car after watching this video.
+
+### Image of RC Car
+![Arduino RC Car](resources/arduino_rc_car.png)
+
+### Footage of RC Car in Action
+![Arduino RC Car](resources/arduino_rc_car.gif)
